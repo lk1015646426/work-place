@@ -1,0 +1,6 @@
+{
+  "name": "生活台 · 手机工作台",
+  "description": "专为 Android 16 优化的移动端个人生活工作台，涵盖今日概览、习惯打卡、倒数纪念日与心情树洞。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
